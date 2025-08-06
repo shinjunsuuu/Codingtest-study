@@ -10,7 +10,7 @@
 | 신준수(팀장) | 박여명 | 이기현 | 이노운 | 황병길 |
 |:------:|:------:|:------:|:------:|:------:|
 | <img width="160px" src="https://github.com/shinjunsuuu.png" /> | <img src="https://github.com/yeomyeoung.png" width="160px" /> | <img src="https://github.com/GIHYUN-LEE.png" width="160px" /> |<img width="160px" src="https://github.com/GodNowoon.png" /> | <img width="160px" src="https://github.com/Gill010147.png" /> |
-| [@shinjunsuuu](https://github.com/shinjunsuuu) | [@yeomyeoung](https://github.com/yeomyeoung) | [@GIHYUN-LEE](https://github.com/GIHYUN-LEE) | [@jieun22222](https://github.com/GodNowoon) |  [@jieun22222](https://github.com/Gill010147) |
+| [@shinjunsuuu](https://github.com/shinjunsuuu) | [@yeomyeoung](https://github.com/yeomyeoung) | [@GIHYUN-LEE](https://github.com/GIHYUN-LEE) | [@GodNowoon](https://github.com/GodNowoon) |  [@Gill010147](https://github.com/Gill010147) |
 ---
 ## 📅 Study Time
 
