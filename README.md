@@ -56,8 +56,8 @@
 
 - PR 제목: 이름 / 주차 / N번 문제
 - `shinjunsuuu / 8월 1주차 / 4번 문제`
-- `📅일정표`에 있는 문제를 풀고 **각자 이름**으로 된 폴더 밑에 소스코드를 업로드해 주세요.
-  - 🧲 [**Pull Request 작성 규칙**](https://github.com/shinjunsuuu/Codingtest-study/wiki/%F0%9F%A7%B2Pull-Request-&-Commit-Message-%EA%B7%9C%EC%B9%99)을 참고하여 풀이한 자신의 코드를 업로드해 주세요.
+- `📅일정표`에 있는 문제를 풀고 **각자 이름**으로 된 폴더 밑에 소스코드를 업로드 해주세요.
+  - 🧲 [**Pull Request 작성 규칙**](https://github.com/shinjunsuuu/Codingtest-study/wiki/%F0%9F%A7%B2Pull-Request-&-Commit-Message-%EA%B7%9C%EC%B9%99)을 참고하여 풀이한 자신의 코드를 업로드 해주세요.
 ---
 
 ## **📅 일정표 (매주 4~5문제, 1주차 완료)**
