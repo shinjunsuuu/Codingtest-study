@@ -44,18 +44,14 @@
 ## ✅ Commit Rule
 
 - **형식**: `문제번호 / 문제이름 / 난이도 / 푼 사람`
-- **예시**:
-    
-    ```bash
-    git commit -m "2557 / Hello World / 브론즈5 / shinjunsuuu"
-    ```
+- **예시**: `git commit -m "2557 / Hello World / 브론즈5 / shinjunsuuu"`
   
 ---
 
 ## 🔁 PR Rule 🔁
 
 - PR 제목: 이름 / 주차 / N번 문제
-- `shinjunsuuu / 1주차 / 4번 문제`
+- **예시**: `shinjunsuuu / 1주차 / 4번 문제`
 - `📅일정표`에 있는 문제를 풀고 **각자 이름**으로 된 폴더 밑에 소스코드를 업로드 해주세요.
   - 🧲 [**Pull Request 작성 규칙**](https://github.com/shinjunsuuu/Codingtest-study/wiki/%F0%9F%A7%B2Pull-Request-&-Commit-Message-%EA%B7%9C%EC%B9%99)을 참고하여 풀이한 자신의 코드를 업로드 해주세요.
 ---
@@ -63,5 +59,6 @@
 ## **📅 일정표 (매주 4~5문제, 1주차 완료)**
 
 |  | 1번 | 2번 | 3번 | 4번 | 5번 |
-| --- | --- | --- | --- | --- | --- |
+| :---: | :---: | :---: | :---: | :---: | :---: |
 | 1주차(08.07~08.13) | [숫자의 합](http://www.acmicpc.net/problem/11720) | [알파벳 찾기](http://www.acmicpc.net/problem/10809) | [문자열 반복](http://www.acmicpc.net/problem/2675) | [수 정렬하기](http://www.acmicpc.net/problem/2750) | [음계](http://www.acmicpc.net/problem/2920) |
+| 2주차(08.14~08.20) | [거스름돈](http://www.acmicpc.net/problem/5585) | [동전 0](http://www.acmicpc.net/problem/11047) | [평균](http://www.acmicpc.net/problem/1546) | [상수](http://www.acmicpc.net/problem/2908) | [그룹 단어 체커](http://www.acmicpc.net/problem/1316) |
