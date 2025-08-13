@@ -15,20 +15,21 @@ public class Solution10809 {
 		for (int i = 0; i < 26; i++) {
 			resultList[i] = -1;
 		}
-		
+
 		for (int j = 0; j < ln.length; j++) {
-			 resultList[alphabet.indexOf(ln[j])] = resultList[alphabet.indexOf(ln[j])] != -1 ? resultList[alphabet.indexOf(ln[j])] : j;
-			
+			resultList[alphabet.indexOf(ln[j])] = resultList[alphabet.indexOf(ln[j])] != -1
+					? resultList[alphabet.indexOf(ln[j])]
+					: j;
+
 		}
 
 		for (int i = 0; i < resultList.length; i++) {
 			System.out.print(resultList[i]);
-			if(i != resultList.length -1) {
+			if (i != resultList.length - 1) {
 				System.out.print(" ");
 			}
 		}
-		
-		
+
 		br.close();
 
 	}
