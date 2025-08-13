@@ -3,7 +3,7 @@ package selfStudy;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class BJ_2587 {
+public class BOJ_2587 {
     public static void main(String[] args) {
         int[] arr = new int[5];
         int sum = 0;

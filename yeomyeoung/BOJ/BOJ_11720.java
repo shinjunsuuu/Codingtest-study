@@ -2,7 +2,7 @@ package BOJ;
 
 import java.util.Scanner;
 
-public class BJ_11720 {
+public class BOJ_11720 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int length = scanner.nextInt();

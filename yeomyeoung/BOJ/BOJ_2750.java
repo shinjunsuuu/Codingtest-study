@@ -2,7 +2,7 @@ package BOJ;
 
 import java.util.Scanner;
 
-public class BJ_2750 {
+public class BOJ_2750 {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);

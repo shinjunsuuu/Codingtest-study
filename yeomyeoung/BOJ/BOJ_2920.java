@@ -2,7 +2,7 @@ package BOJ;
 
 import java.util.Scanner;
 
-public class BJ_2920 {
+public class BOJ_2920 {
     public static void main(String[] args) {
         int num = 8;
         int[] arr = new int[num];
