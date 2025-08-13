@@ -2,7 +2,7 @@ package BOJ;
 
 import java.util.Scanner;
 
-public class BJ_2675 {
+public class BOJ_2675 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int repeatTimes = scanner.nextInt();

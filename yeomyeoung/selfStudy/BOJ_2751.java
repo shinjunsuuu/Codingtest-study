@@ -3,7 +3,7 @@ package selfStudy;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class BJ_2751 {
+public class BOJ_2751 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int times = scanner.nextInt();
