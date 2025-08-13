@@ -1,3 +1,5 @@
+package BOJ;
+
 import java.util.Scanner;
 
 public class BJ_2750 {

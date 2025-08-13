@@ -1,3 +1,5 @@
+package BOJ;
+
 import java.util.Scanner;
 
 public class BJ_2920 {
@@ -20,6 +22,7 @@ public class BJ_2920 {
                 }
                 System.out.println("descending");
             }
+
             else if(arr[0] == 1) {
                 for (int i = 0; i < num; i++) {
                     if (arr[i] != i + 1) {
