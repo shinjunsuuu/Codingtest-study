@@ -1,10 +1,10 @@
-package junsu;
+package junsu.BOJ;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class Solution_11720 {
+public class BOJ_11720 {
 	public static void main(String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		int no = Integer.parseInt(br.readLine());
