@@ -1,8 +1,8 @@
-package Gihyun;
+package Gihyun.BOJ;
 
 import java.util.Scanner;
 
-public class Solution2 {
+public class BOJ_10809 {
 
 	public static void main(String[] args) {
 		Scanner sc=new Scanner(System.in);

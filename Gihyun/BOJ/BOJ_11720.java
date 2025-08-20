@@ -1,14 +1,14 @@
-package Gihyun;
+package Gihyun.BOJ;
 
 import java.util.Scanner;
 
-public class Coding01 {
+public class BOJ_11720 {
 
 	public static void main(String[] args) {
 		Scanner scan= new Scanner(System.in);
 		int amount=scan.nextInt();
-		scan.nextLine();
-		String number=scan.nextLine();
+		String number=scan.next();
+		scan.close();
 		int []arraynum=new int [amount];
 		
 		int index=0;
@@ -21,7 +21,8 @@ public class Coding01 {
 			sum+=i;
 		}
 		
-		System.out.println("출력 : "+sum);
+		System.out.println(sum);
+		// split 사용해보기
 		
 	
 	}
