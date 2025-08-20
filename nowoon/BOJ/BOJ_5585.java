@@ -10,9 +10,9 @@ public class BOJ_5585 {
 
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
-		String input = br.readLine();
+		int input = Integer.parseInt(br.readLine());
 
-		int money = 1000 - Integer.parseInt(input);
+		int money = 1000 - input;
 		int count = 0;
 		count += money / 500;
 		count += (money % 500) / 100;
