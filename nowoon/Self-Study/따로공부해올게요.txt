@@ -1,0 +1,33 @@
+clock set 09:10:00 18 Aug 2025
+conf t
+clock timezone KST 9
+ip routing
+hostname Switch-03
+enable secret cisco
+vtp domain tony
+vtp password cisco
+vtp mode client
+spanning-tree mode rapid-pvst
+interface range fa0/11-12
+channel-group 1 mode active
+interface range fa0/13-14
+channel-group 2 mode active
+interface port-channel 1
+switchport mode trunk
+description #### EtherChannel to BBSW-01 ####
+interface port-channel 2
+switchport mode trunk
+description #### EtherChannel to BBSW-02 ####
+interface fa0/1
+switchport access vlan 20
+interface fa0/2
+switchport access vlan 30
+interface fa0/3
+switchport access vlan 10
+exit
+line vty 0 4
+login local
+exit
+username tony password 7 cisco
+end
+copy run start
