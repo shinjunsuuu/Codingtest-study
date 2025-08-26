@@ -62,3 +62,4 @@
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1주차(08.07~08.13) | [숫자의 합](http://www.acmicpc.net/problem/11720) | [알파벳 찾기](http://www.acmicpc.net/problem/10809) | [문자열 반복](http://www.acmicpc.net/problem/2675) | [수 정렬하기](http://www.acmicpc.net/problem/2750) | [음계](http://www.acmicpc.net/problem/2920) |
 | 2주차(08.14~08.20) | [거스름돈](http://www.acmicpc.net/problem/5585) | [동전 0](http://www.acmicpc.net/problem/11047) | [평균](http://www.acmicpc.net/problem/1546) | [상수](http://www.acmicpc.net/problem/2908) | [그룹 단어 체커](http://www.acmicpc.net/problem/1316) |
+| 3주차(08.21~08.27) | [DFS와 BFS](http://www.acmicpc.net/problem/1260) | [촌수계산](http://www.acmicpc.net/problem/2644) | [단지번호붙이기](http://www.acmicpc.net/problem/2667) | [바이러스](http://www.acmicpc.net/problem/2606) | [연결 요소의 개수](http://www.acmicpc.net/problem/11724) |
