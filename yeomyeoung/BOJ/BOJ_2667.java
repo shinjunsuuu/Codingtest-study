@@ -1,10 +1,7 @@
 package BOJ;
 
 import java.io.*;
-import java.util.ArrayList;
-import java.util.Collections;
-import java.util.LinkedList;
-import java.util.Queue;
+import java.util.*;
 
 public class BOJ_2667 {
     static int arr[][];
