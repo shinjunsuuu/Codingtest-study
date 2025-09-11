@@ -56,10 +56,13 @@
   - 🧲 [**Pull Request 작성 규칙**](https://github.com/shinjunsuuu/Codingtest-study/wiki/%F0%9F%A7%B2Pull-Request-&-Commit-Message-%EA%B7%9C%EC%B9%99)을 참고하여 풀이한 자신의 코드를 업로드 해주세요.
 ---
 
-## **📅 일정표 (매주 4~5문제, 1주차 완료)**
+## **📅 일정표 (매주 4~5문제, 5주차 완료)**
 
 |  | 1번 | 2번 | 3번 | 4번 | 5번 |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1주차(08.07~08.13) | [숫자의 합](http://www.acmicpc.net/problem/11720) | [알파벳 찾기](http://www.acmicpc.net/problem/10809) | [문자열 반복](http://www.acmicpc.net/problem/2675) | [수 정렬하기](http://www.acmicpc.net/problem/2750) | [음계](http://www.acmicpc.net/problem/2920) |
 | 2주차(08.14~08.20) | [거스름돈](http://www.acmicpc.net/problem/5585) | [동전 0](http://www.acmicpc.net/problem/11047) | [평균](http://www.acmicpc.net/problem/1546) | [상수](http://www.acmicpc.net/problem/2908) | [그룹 단어 체커](http://www.acmicpc.net/problem/1316) |
 | 3주차(08.21~08.27) | [DFS와 BFS](http://www.acmicpc.net/problem/1260) | [촌수계산](http://www.acmicpc.net/problem/2644) | [단지번호붙이기](http://www.acmicpc.net/problem/2667) | [바이러스](http://www.acmicpc.net/problem/2606) | [연결 요소의 개수](http://www.acmicpc.net/problem/11724) |
+| 4주차(08.28~09.03) | [점프 점프](http://www.acmicpc.net/problem/14248) | [안전 영역](http://www.acmicpc.net/problem/2468) | [그림](http://www.acmicpc.net/problem/1926) | [알고리즘 수업 - 너비 우선 탐색 1](http://www.acmicpc.net/problem/24444) | [유기농 배추](http://www.acmicpc.net/problem/1012) |
+| 5주차(09.04~09.10) | [피보나치 수2](http://www.acmicpc.net/problem/2748) | [계단 오르기](http://www.acmicpc.net/problem/2579) | [점프](http://www.acmicpc.net/problem/1890) | [1로 만들기](http://www.acmicpc.net/problem/1463) | [2×n 타일링](http://www.acmicpc.net/problem/11726) |
+
